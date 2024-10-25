@@ -1,6 +1,7 @@
+![logo](https://github.com/tasdidmasuk/tasdidmasuk/blob/main/gif.gif)
+
 <h1 align="center">Hi 👋, I'm Tasdid Bin Masuk</h1>
 <h3 align="center">A passionate Flutter Developer in Bangladesh.</h3>
-<img align="right" alt="Coding" width="400" src="(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tasdidmasuk&label=Profile%20views&color=0e75b6&style=flat" alt="tasdidmasuk" /> </p>
 
